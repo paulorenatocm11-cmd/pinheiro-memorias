@@ -1,0 +1,23 @@
+PINHEIRO EM MEMÓRIAS — EXPOSIÇÃO VIRTUAL
+
+Como usar:
+1. Extraia este arquivo ZIP.
+2. Abra o arquivo index.html no navegador.
+3. Para publicar online, envie a pasta inteira para Netlify, GitHub Pages, Vercel ou outro serviço de hospedagem estática.
+4. Depois de publicar, copie o link e gere um QR Code para colocar no jornal escolar, nos cartazes e na culminância da eletiva.
+
+Estrutura da exposição:
+- Abertura
+- Sobre o projeto
+- Roteiro da exposição
+- 7 salas principais
+- Fotos extras
+- Como a IA foi usada
+- Encerramento
+- Ficha técnica
+
+Projeto: Pinheiro em Memórias — Patrimônio, Cultura e Tecnologia
+Instituição: UMI — Instituto de Educação de Pinheiro (IEP)
+Eletiva: Geração IA: Aprender, Criar e Inovar
+Professores responsáveis: Paulo Morais e Elizabeth Amate
+Ano: 2026
